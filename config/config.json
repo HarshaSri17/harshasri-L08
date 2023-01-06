@@ -1,13 +1,13 @@
 {
   "development": {
-    "username": "Harshasri",
+    "username": "Harshasri1",
     "password": "Harshasri",
     "database": "todo_l6",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
-    "username": "Harshasri",
+    "username": "Harshasri1",
     "password": "Harshasri",
     "database": "todo_l6_test",
     "host": "127.0.0.1",
